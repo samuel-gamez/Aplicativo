@@ -1,0 +1,21 @@
+.container_1, .container_2 {
+  margin: 20px;
+}
+input[type="text"] {
+  padding: 8px;
+  width: 200px;
+}
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+section > div {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
